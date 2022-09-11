@@ -102,6 +102,7 @@ header.shadow {
 }
 .home-img {
   order: 3;
+  
 }
 .home-img img {
   width: 100%;
@@ -184,7 +185,7 @@ header.shadow {
   height: 100%;
   width: 3px;
   background-color: #fff;
-  transform-origin: 0 50%;
+  transform-origin: 0 70%;
 }
 
 .fd .line1 { 
@@ -198,6 +199,10 @@ header.shadow {
 }
 /* end of fd */
 
+/* typewriter */
+
+
+/* typewriter ends here  */
 
 .information {
   margin: 1rem 0 1.4rem;
